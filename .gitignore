@@ -1,0 +1,11 @@
+.env
+config.env
+.godot/
+.scratch/
+.tools/gemini-api-offload/
+__pycache__/
+*.pyc
+*.apk
+*.idsig
+build/
+export/
